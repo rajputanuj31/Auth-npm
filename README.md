@@ -10,6 +10,9 @@
 - Built with responsive design principles
 - Error handling and success messages for authentication actions
 
+## Backend Integration
+Note: This package is for the frontend only. If you need backend support for authentication, you can use the backend package by following this link: https://www.npmjs.com/package/oneclickauth-backend
+
 ## Installation
 
 To install **OneClickAuth** into your React project, run the following command:
